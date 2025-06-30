@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QDZRCkYZMLqpbmIANnVDhGOlSZIZI5Jo/JYZlY86etKu9GE/Mv9f4m/9t6dqZ+XoljMvTzwYkAjBShaBch/0A==",
+  "success": true,
+  "projectFilePath": "D:\\zzz TEMP\\AvaNews\\AvaNewsServerless\\AvaNewsServerless\\AvaNewsServerless.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\ronan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\ronan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\ronan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
