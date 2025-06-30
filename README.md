@@ -1,4 +1,5 @@
-Solution Architecture 1: Serverless & Cloud-native Approach (AWS)
+Serverless & Cloud-native Approach (AWS)
+
 Components:
 Data Ingestion:
 AWS Lambda (scheduled hourly via CloudWatch Events)
